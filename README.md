@@ -11,4 +11,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend Almost 2 hours listening music.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalsadwani&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalsadwani&theme=cobalt)
