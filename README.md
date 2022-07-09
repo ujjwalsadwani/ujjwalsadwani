@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalsadwani&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalsadwani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalsadwani" alt="ujjwalsadwani" /></a> </p>
 
 - 🔭 I’m currently working on [Stock Market Price Prediction](https://github.com/ujjwalsadwani/WebScrapping/blob/main/market%20data.py)
 
