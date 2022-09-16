@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on [Stock Market Price Prediction](https://github.com/ujjwalsadwani/WebScrapping/blob/main/market%20data.py)
+- 🔭 I’m currently working on Data Structure and Algorithms
 
-- 🌱 I’m currently learning **DSA and Power BI**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/ujjwal-sadwani/)
 
